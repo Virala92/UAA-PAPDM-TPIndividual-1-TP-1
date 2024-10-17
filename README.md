@@ -42,5 +42,5 @@ Receta Caso 2, se cargan tambien todos los datos.
 Receta Caso 3, se cargan todos los datos y la URL no es valida. Se muestra una imagen en negro con el mensaje de Error.
 
 ![Receta 2](Imagenes/Img_5.jpg)
-![Texto alternativo](Imagenes/img_7.jpg)
+![Texto alternativo](Imagenes/Img_7.jpg)
 
