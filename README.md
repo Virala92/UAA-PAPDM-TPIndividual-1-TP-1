@@ -41,6 +41,20 @@ Para los casos de Ejemplo se cargaran Tres recetas,
 
 ## Receta Caso 3, se cargan todos los datos y la URL no es valida. Se muestra una imagen en negro con el mensaje de Error.
 
-![Receta 2](Imagenes/Img_5.jpg)
+![Receta 3](Imagenes/Img_5.jpg)
 ![Texto alternativo](Imagenes/Img_7.jpg)
+
+
+## 4. Eliminar Receta
+
+Para eliminar las recetas se debe realizar desde el boton Eliminar Receta.
+
+
+## 5. Buscar Recetas
+
+Se cuenta con la opción de buscar por nombre la receta , por coincidencia del texto ya se visualiza en la grilla las recetas con el nombre ingresado.
+
+![Texto alternativo](Imagenes/Img_8.jpg)
+
+
 
