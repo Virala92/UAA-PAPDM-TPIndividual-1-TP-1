@@ -6,11 +6,8 @@ Desarrollar una aplicación Android para gestionar el registro de recetas de coc
 1. [Vista Principal Modo Claro](#dVista-Principal-Modo-Claro)
 2. [Vista Principal Modo Oscuro](#dVista-Principal-Modo-Oscuro)
 3. [Carga de Receta](#Carga-de-Receta)
-4. [Instalación](#instalación)
-5. [Uso](#uso)
-6. [Imágenes](#imágenes)
-7. [Contribuciones](#contribuciones)
-8. [Licencia](#licencia)
+4. [Eliminar Receta](#Eliminar-Receta)
+5. [Buscar Recetas](#Buscar-Recetas)
 
 ## 1. Vista Principal Modo Claro
 
@@ -32,5 +29,18 @@ Despues de ingresar todos los datos se debe presionar el boton Guardar Nueva Rec
 
 Para los casos de Ejemplo se cargaran Tres recetas, 
 
+Receta Caso 1, se cargan todos los datos.
+
 ![Receta 1](Imagenes/Img_3.jpg)
 ![Texto alternativo](Imagenes/img_4.jpg)
+
+Receta Caso 2, se cargan tambien todos los datos.
+![Receta 2](Imagenes/Img_10.jpg)
+![Texto alternativo](Imagenes/img_6.jpg)
+
+
+Receta Caso 3, se cargan todos los datos y la URL no es valida. Se muestra una imagen en negro con el mensaje de Error.
+
+![Receta 2](Imagenes/Img_5.jpg)
+![Texto alternativo](Imagenes/img_7.jpg)
+
