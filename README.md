@@ -17,7 +17,7 @@ Desarrollar una aplicación Android para gestionar el registro de recetas de coc
 
 ![Texto alternativo](Imagenes/Img_2.jpg)
 
-## 2. Carga de Receta
+## 3. Carga de Receta
 Pueden Ingresarse:
   - Nombre del Plato.
   - Tiempo de Preparación.
@@ -29,17 +29,17 @@ Despues de ingresar todos los datos se debe presionar el boton Guardar Nueva Rec
 
 Para los casos de Ejemplo se cargaran Tres recetas, 
 
-Receta Caso 1, se cargan todos los datos.
+## Receta Caso 1, se cargan todos los datos.
 
 ![Receta 1](Imagenes/Img_3.jpg)
 ![Texto alternativo](Imagenes/img_4.jpg)
 
-Receta Caso 2, se cargan tambien todos los datos.
+## Receta Caso 2, se cargan tambien todos los datos.
 ![Receta 2](Imagenes/Img_10.jpg)
 ![Texto alternativo](Imagenes/img_6.jpg)
 
 
-Receta Caso 3, se cargan todos los datos y la URL no es valida. Se muestra una imagen en negro con el mensaje de Error.
+## Receta Caso 3, se cargan todos los datos y la URL no es valida. Se muestra una imagen en negro con el mensaje de Error.
 
 ![Receta 2](Imagenes/Img_5.jpg)
 ![Texto alternativo](Imagenes/Img_7.jpg)
