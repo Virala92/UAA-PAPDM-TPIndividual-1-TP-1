@@ -31,4 +31,4 @@ Pueden Ingresarse:
 Despues de ingresar todos los datos se debe presionar el boton Guardar Nueva Receta. Y se visualizara la receta en la grilla de abajo, donde se tiene la opción de Eliminar la receta desde el botón.
 
 ![Texto alternativo](Imagenes/Img_3.jpg)
-![Texto alternativo](Imagenes/Img_4.jpg)
+![Texto alternativo](Imagenes/Img_5.jpg)
