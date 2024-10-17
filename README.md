@@ -1,3 +1,3 @@
 # Aplicación Android de Registro de Recetas
 
-![Texto alternativo](Imagenes/Img_1.jpg)
+![Vista Principal de la Pantalla Modo Claro](Imagenes/Img_1.jpg)
