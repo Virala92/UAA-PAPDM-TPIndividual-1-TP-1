@@ -36,7 +36,7 @@ Para los casos de Ejemplo se cargaran Tres recetas,
 
 ## Receta Caso 2, se cargan tambien todos los datos.
 ![Receta 2](Imagenes/Img_10.jpg)
-![Texto alternativo](Imagenes/img_6.jpg)
+![Texto alternativo](Imagenes/Img_6.jpg)
 
 
 ## Receta Caso 3, se cargan todos los datos y la URL no es valida. Se muestra una imagen en negro con el mensaje de Error.
